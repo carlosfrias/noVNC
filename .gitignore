@@ -9,3 +9,5 @@ utils/websockify
 recordings
 *.swp
 *~
+*.iml
+
